@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kolos_2021/kolos_2021.iml" filepath="$PROJECT_DIR$/kolos_2021/kolos_2021.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kolos_2023/kolos_2023.iml" filepath="$PROJECT_DIR$/kolos_2023/kolos_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kolos1_2022/kolos1_2022.iml" filepath="$PROJECT_DIR$/kolos1_2022/kolos1_2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kolos1_2021/kolos_2021.iml" filepath="$PROJECT_DIR$/kolos1_2021/kolos_2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kolos1_2023/kolos_2023.iml" filepath="$PROJECT_DIR$/kolos1_2023/kolos_2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/programowanie_java.iml" filepath="$PROJECT_DIR$/.idea/programowanie_java.iml" />
     </modules>
   </component>
